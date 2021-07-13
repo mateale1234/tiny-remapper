@@ -29,6 +29,6 @@ jobs:
       uses: actions/download-artifact@v2.0.10
       with:
         # Artifact name
-        name: # optional
+        name: dada
         # Destination path
         path: # optional
